@@ -6,4 +6,6 @@ Ciclo: Segundo "A"
                                                                                                                                                              
 DIAGRAMA UML
 
-![image](https://github.com/GabrielCevallos/ProyectoIntegradorDeSaberes/assets/166524070/68f26633-21c0-4a6f-9c24-5cde8ef702e7)
+
+![Sin título](https://github.com/FrancisJaramilloC/ProyectoIntegradorPIS/assets/166524335/44aa6623-1bb8-4805-b914-c8f8325c233c)
+
