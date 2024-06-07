@@ -18,8 +18,13 @@ from django.contrib import admin
 from django.urls import path
 
 from composicionBrazo.views import index
+from movimientoBrazo.views import componentes, estructura, RegistroForm
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', index, name='index')
+    path('', index, name='index'),
+    path ('index/', index, name='index'),
+    path('componentes/', componentes, name='componentes'),
+    path('estructura/', estructura, name='estructura'),
+    path('registro/', RegistroForm, name='registro'),
 ]
